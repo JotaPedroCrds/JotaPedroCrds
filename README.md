@@ -1,16 +1,19 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://live.staticflickr.com/65535/54246204121_581fab5111_m.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://live.staticflickr.com/65535/54246204121_581fab5111_m.jpg">
+ <img alt="" srcset="https://live.staticflickr.com/65535/54246204121_581fab5111_m.jpg">
+</picture>
+<!--<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://live.staticflickr.com/65535/54246404084_808571a56f_z.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://live.staticflickr.com/65535/54246404094_08892fd50e_z.jpg">
+ <img alt="" src="https://live.staticflickr.com/65535/54246404094_08892fd50e_z.jpg">
+</picture>-->
 
-<!--
-**JotaPedroCrds/JotaPedroCrds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello to whoever this reaches 👋
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is João Pedro, born in Brazil and 21 years old. At the moment, I'm a mathematics undergrad student at Unicamp.
+
+
+
