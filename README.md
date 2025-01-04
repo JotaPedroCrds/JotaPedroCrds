@@ -8,7 +8,7 @@
 
 ### About me
 
-My name is João Pedro, born in Brazil and 21 years old. At the moment, I'm a mathematics undergrad student at Unicamp.
+My name is João Pedro, I'm 21 years old and was born in Brazil. At the moment, I'm a mathematics undergrad student at Unicamp.
 
 
 
