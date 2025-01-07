@@ -4,7 +4,7 @@
  <img alt="" srcset="https://live.staticflickr.com/65535/54246204121_581fab5111_m.jpg">
 </picture>
 
-## Hello to whoever this reaches 👋
+## Hello to whomever this reaches 👋
 
 ### About me
 
